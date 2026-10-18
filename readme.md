@@ -12,3 +12,4 @@
 - Dataverse版に作り直す
 - データ項目を整理する
 - Copilot Studioから服装を探せるようにする
+- CUGJのLTで紹介する
