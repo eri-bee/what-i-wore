@@ -4,3 +4,4 @@
 - 予想最高気温
 - 場所
 - With Whom
+- Memo
